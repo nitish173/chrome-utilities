@@ -9,6 +9,7 @@ module.exports = {
     entry: {
         'indexFile': path.join(__dirname, 'src', 'js', 'index.js'),
         'background': path.join(__dirname, 'src', 'js', 'background.js'),
+        'youTubeScript': path.join(__dirname, 'src', 'js', 'youTubeScript.js'),
 
     },
     output: {
