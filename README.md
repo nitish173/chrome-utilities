@@ -8,3 +8,8 @@ Getting started:
 1. Clone the repo and in root do an `npm install` to install the dependencies.
 2. Run `npm build-watch` to get the build in `watch` mode.
 3. In developer mode in Chrome browser, load the build folder as unpacked extension to see the extension in action.
+
+Current Utility:
+
+1. Context-bookmarking content on pages
+2. Make youtube sidebar scrollable when playing videos.
